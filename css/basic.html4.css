@@ -1,0 +1,9 @@
+
+.sample-flipbook .odd{
+	background:url(../images/pages.gif) -200px 0;
+	
+}
+
+.sample-flipbook .even{
+	background:url(../images/pages.gif) 0 0;
+}
